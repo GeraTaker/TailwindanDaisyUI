@@ -29,7 +29,7 @@ Es una aplicación web que utiliza tecnologías y bibliotecas para mostrar juego
 ```
 git clone git@github.com:GeraTaker/TailwindanDaisyUI.git
 ```
-- En la raiz del proyecto se descragan las dependencias 
+- En la raiz del proyecto se descargan las dependencias 
 ```
 npm install 
 ```
