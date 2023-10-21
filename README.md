@@ -27,7 +27,7 @@ Es una aplicación web que utiliza tecnologías y bibliotecas para mostrar juego
 ## Guía de Instalación 
 - Se clona el proyecto  
 ```
-git clone 
+git clone git@github.com:GeraTaker/TailwindanDaisyUI.git
 ```
 - En la raiz del proyecto se descragan las dependencias 
 ```
@@ -36,6 +36,10 @@ npm install
 - Para ejecutar el proyecto
 ```
 npm run dev 
+```
+- Para poder checar que se tengan todas las dependencias necesarias
+```
+npm list 
 ```
 ## Apís públicas
 Se concume una api publica para poder obetener juegos de PC, para ello ocupamos ciertos parametros como llaves.
