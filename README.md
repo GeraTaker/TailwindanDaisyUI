@@ -38,6 +38,21 @@ npm run dev
 ```
 ## Apís públicas
 Se concume una api publica para poder obetener juegos de PC, para ello ocupamos ciertos parametros como llaves.
+
+**URL:** 
+>https://free-to-play-games-database.p.rapidapi.com/api/filter
+
+**Parametros** 
+
+>**tag:** 3d.mmorpg.fantasy.pvp
+
+>**platform:** pc
+
+**Headers**
+>**X-RapidAPI-Key:** 2b959bccf8msh9e8c58938e7428bp1cba5djsn5fd0c2124205
+
+>**X-RapidAPI-Host:** free-to-play-games-database.p.rapidapi.com
+
  
 ## Colaboradores
 - Sandra Paola Gutierrez Marcial
