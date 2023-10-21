@@ -1,4 +1,5 @@
 # Proyecto de consumo de APIS con Vue js, TailWind, DaisyUI, Vuex, Vite, Pine y Java Script
+Es una aplicación web que utiliza tecnologías y bibliotecas para mostrar juegos de PC gratuitos. Vue.js, Tailwind CSS y otras dependencias son clave. Se proporciona una guía de instalación, y se consume una API pública.
 ## Dependencias del Poryecto
 
 |  Packages               | Version       |
